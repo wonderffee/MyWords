@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>设置默认单词量/每次</string>
+	<string>设置默认复习个数/每次
+</string>
+	<string>设置释义条数上限
+</string>
+	<string>设置例句条数上限
+</string>
+</array>
+</plist>

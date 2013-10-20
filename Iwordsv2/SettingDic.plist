@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>其它</key>
+	<array>
+		<string>使用帮助</string>
+		<string>意见反馈</string>
+		<string>评分</string>
+		<string>关于我们</string>
+	</array>
+	<key>网络资料下载</key>
+	<array>
+		<string>下载主题</string>
+	</array>
+	<key>更改计划</key>
+	<array>
+		<string>修改计划以及相关参数</string>
+		<string>提醒闹钟设置</string>
+	</array>
+</dict>
+</plist>

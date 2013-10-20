@@ -1,0 +1,28 @@
+//
+// Prefix header for all source files of the 'Iwordsv2' target in the 'Iwordsv2' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define RGB_MAX 255
+
+#ifndef NAV_TINT_COLOR
+    #define NAV_TINT_COLOR [UIColor colorWithRed:77.0f/RGB_MAX green:99.0f/RGB_MAX blue:239.0f/RGB_MAX alpha:0.6f]
+#endif
+
+#ifndef MAIN_BG_COLOR
+    #define MAIN_BG_COLOR [UIColor colorWithRed:153.0f/RGB_MAX green:170.0f/RGB_MAX blue:255.0f/RGB_MAX alpha:0.6f]
+#endif
+
+#ifndef TB_ROW_NUM
+#define TB_ROW_NUM 3
+#endif

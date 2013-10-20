@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Cet4</string>
+	<string>Cet6</string>
+	<string>Graduate</string>
+	<string>TOFEL</string>
+	<string>IELTS</string>
+	<string>GRE</string>
+	<string>GMAT</string>
+	<string>MBA</string>
+	<string>Professional4</string>
+	<string>Professional6</string>
+</array>
+</plist>

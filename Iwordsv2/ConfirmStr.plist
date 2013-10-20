@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>您选择的学习词库是：</string>
+	<string>您设置的默认单词个数为：</string>
+	<string>您设置的默认复习个数为：</string>
+	<string>您设置的示意条数上限为：</string>
+	<string>您设置的例句条数上限为：</string>
+	<string>是否自动播放语音：</string>
+</array>
+</plist>
